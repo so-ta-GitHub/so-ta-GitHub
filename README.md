@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @so-ta-GitHub. Nickname is "so-ta".
-- 👀 I’m interested in Guitar plaing.Jazz,Rock,Soul,Bossa Nova... all the played guitar mucic!
+- 👀 I’m interested in Guitar plaing.Jazz,Rock,Soul,Bossa Nova... all the played guitar music!
 - 🌱 I’m currently learning HTML,CSS,Javascript.
 - 💞️ I’m looking to collaborate on Website design.
 - 📫 How to reach me untitled.prototype@gmail.com.
